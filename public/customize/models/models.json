@@ -398,7 +398,12 @@
       "position": { "x": 430, "y": 520 },
       "translate": { "x": 0, "y": 25 },
       "defaultText": "TITRE DU BADGE",
-      "font": { "size": "50", "anchor": "middle", "weight": "900" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
     "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
@@ -407,7 +412,12 @@
       "position": { "x": 345, "y": 663 },
       "translate": { "x": 0, "y": 15 },
       "defaultText": "Savoir-Faire",
-      "font": { "size": "50", "anchor": "middle", "weight": "700" },
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
@@ -418,7 +428,7 @@
       "font": {
         "size": "50",
         "anchor": "middle",
-        "letter-spacing": 0,
+        "letter-spacing": 1,
         "weight": "700"
       },
       "path": "M 215.04234,925.09996 H 885.1045"
