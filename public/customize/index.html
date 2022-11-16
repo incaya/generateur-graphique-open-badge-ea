@@ -21,16 +21,16 @@
   <div class="App">
     <div style="display: flex; flex-direction: column">
       <header>
-        <a href="/generateur" style="text-decoration: none; color: #403b33">
+        <a href="/" style="text-decoration: none; color: #403b33">
           <h1>
             Générateur de visuel pour
-            <span style="color: #d3643b">Open badge</span>
+            <span style="color: #d3643b">Open badge EA</span>
           </h1>
         </a>
         <nav>
           <ul>
             <li>
-              <a href="/generateur">
+              <a href="/">
                 Retour aux modèles
               </a>
             </li>
@@ -103,18 +103,17 @@
                   <input type="color" id="couleur_1" value="#ffffff" />
                   <label for="couleur_1">couleur 1 : logo et titre principal</label>
                 </p>
-                <p>
+                <!-- <p>
                   <input type="color" id="couleur_2" value="#473467" />
                   <label for="couleur_2">couleur 2 : picto, texte et filet "catégorie"</label>
-                </p>
+                </p> -->
                 <p>
                   <input type="color" id="couleur_3" value="#009eb9" />
-                  <label for="couleur_3">couleur 3 : fond et filet "posture"</label>
+                  <label for="couleur_3">couleur 2 : fond</label>
                 </p>
                 <p>
                   <input type="color" id="couleur_4" value="#000000" />
-                  <label for="couleur_4">couleur 4 : pictos et textes "thème" et
-                    "catégorie"</label>
+                  <label for="couleur_4">couleur 3 : catégorie et posture</label>
                 </p>
               </div>
 
@@ -403,14 +402,14 @@
           customBadge.setColor(10, color);
           customBadge.setColor(11, color);
         });
-      document
-        .getElementById("couleur_2")
-        .addEventListener("change", function (e) {
-          var color = e.target.value;
-          // customBadge.setColor(40, color);
-          // customBadge.setColor(41, color);
-          customBadge.setColor(42, color);
-        });
+      // document
+      //   .getElementById("couleur_2")
+      //   .addEventListener("change", function (e) {
+      //     var color = e.target.value;
+      //     // customBadge.setColor(40, color);
+      //     // customBadge.setColor(41, color);
+      //     customBadge.setColor(42, color);
+      //   });
       document
         .getElementById("couleur_3")
         .addEventListener("change", function (e) {
@@ -640,14 +639,15 @@
       const color1 = document.getElementById("couleur_1");
       color1.value = "#" + colors[0];
       color1.dispatchEvent(new CustomEvent("change", { bubbles: true }));
-      const color2 = document.getElementById("couleur_2");
-      color2.value = "#" + colors[1];
-      color2.dispatchEvent(new CustomEvent("change", { bubbles: true }));
+      // const color2 = document.getElementById("couleur_2");
+      // color2.value = "#" + colors[1];
+      // color2.dispatchEvent(new CustomEvent("change", { bubbles: true }));
       const color3 = document.getElementById("couleur_3");
       color3.value = "#" + colors[4];
       color3.dispatchEvent(new CustomEvent("change", { bubbles: true }));
       const color4 = document.getElementById("couleur_4");
-      color4.value = "#" + colors[5];
+      // color4.value = "#" + colors[5];
+      color4.value = "#" + colors[1];
       color4.dispatchEvent(new CustomEvent("change", { bubbles: true }));
     }
 
