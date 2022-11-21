@@ -129,7 +129,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="sv1"
-                      tooltipText="Voir, découvrir, prendre connaissance<br />Classe de badge de savoir qui indique une posture passive, ou bien que l'on souhaite apprendre.<br />Texte conseillé :  j'ai découvert, je veux apprendre, je souhaite m'initier."
+                      tooltipText="S'initier, découvrir, s'intéresser, ...<br />Badge de savoir qui rend visible une démarche de découverte d'un sujet, de sa volonté d'apprendre.<br />Texte conseillé :  je découvre, je veux apprendre, je m'initie."
                     >
                       <Sv1 />
                     </MatrixCell>
@@ -137,7 +137,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="sf1"
-                      tooltipText="Voir, découvrir, prendre connaissance<br />Classe de badge de savoir faire qui indique une posture passive pu bien que l'on souhaite apprendre.<br />Texte conseillé :  j'ai découvert, je veux apprendre, je souhaite connaitre, j'ai découvert, je veux apprendre, je veux tester."
+                      tooltipText="S'initier, tester, explorer, ...<br />Badge qui rend visible une démarche de découverte d'un savoir-faire,  de son souhait d'expérimenter celui-ci.<br />Texte conseillé : je découvre, je souhaite pratiquer, je veux tester."
                     >
                       <Sf1 />
                     </MatrixCell>
@@ -145,7 +145,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="se1"
-                      tooltipText="Voir, découvrir, prendre connaissance<br />Classe de badge qui indique une posture passive, ou bien que l'on souhaite apprendre.<br />Texte conseillé :  j'ai découvert, je veux apprendre, je souhaite connaitre, j'ai découvert, je veux comprendre, je veux tester"
+                      tooltipText="Débuter, prendre conscience, identifier <br />Classe de badge qui rend visible une volonté de développer un savoir-être.<br />Texte conseillé : je m'initie , j'essaye."
                     >
                       <Se1 />
                     </MatrixCell>
@@ -153,7 +153,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="cp1"
-                      tooltipText="Voir, découvrir, prendre connaissance<br />Classe de badge de compétence qui indique une posture passive, mais qui peut aussi témoigner que l'on n'a encore rien fait mais que l'on souhaite pratiquer.<br />Texte conseillé : j'ai découvert, je souhaite pratiquer."
+                      tooltipText="S'initier, découvrir, explorer, ...<br />Badge qui rend visible une démarche de découverte d'une pratique,  de son souhait de l'explorer.<br />Texte conseillé : je découvre, je souhaite pratiquer, j'explore."
                     >
                       <Cp1 />
                     </MatrixCell>
@@ -165,7 +165,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="xp1"
-                      tooltipText="Classe de badge indiquant un degré de participation passif à un événement, une expérience, sur un temps court ou prolongé.<br />Texte conseillé : j'y étais, je suis venus., j'ai envie d'y aller, ..."
+                      tooltipText="Participer, découvrir, vivre... <br />Badge qui rend visible une participation à un événement, ou le vécu d'une expérience.<br />Texte conseillé : j'y étais, je suis venu, j'ai aimé, j'ai vécu..."
                     >
                       <Xp1 />
                     </MatrixCell>
@@ -173,7 +173,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="pj1"
-                      tooltipText="Classe de badge indiquant la découverte ou l'envie de participer à un projet, un programme ou un dispositif.<br />Texte conseillé : j'ai découvert, je souhaite m'engager, je souhaite participer"
+                      tooltipText="Soutenir, promouvoir, montrer son intérêt... <br />Badge rendant visible un soutien ou l'envie de participer à un projet, un programme ou un dispositif.<br />Texte conseillé : Je soutiens, je m'intéresse, je connais."
                     >
                       <Pj1 />
                     </MatrixCell>
@@ -181,7 +181,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="gp1"
-                      tooltipText="Classe de badge indiquant la découverte ou l'envie de participer à un groupe ou à une communauté. <br />Texte conseillé : j'ai découvert, je souhaite m'engager, je souhaite participer"
+                      tooltipText="Adhérer, faire partie, soutenir... <br />Badge qui rend visible l'adhésion à un groupe ou à une communauté ou son soutien.<br />Texte conseillé : j'en suis, je souhaite m'engager, je suis membre."
                     >
                       <Gp1 />
                     </MatrixCell>
@@ -189,7 +189,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="pc1"
-                      tooltipText="Badge pour témoigner d'un etat de départ, d'un rêve de désir, d'envie ou de souhait.<br />Texte conseillé : j'en suis là, je souhaite m'engager, je vous souhaite de, badge de rêve, quand je serai grand je serai"
+                      tooltipText="Démarrer, se lancer... <br />Badge qui rend visible le point de départ d'un parcours personnel ou professionel.<br />Texte conseillé : j'en suis là, je suis engagé, Je me lance, quand je serai grand je serai..."
                     >
                       <Pc1 />
                     </MatrixCell>
@@ -203,7 +203,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="sv2"
-                      tooltipText="S'initier, commencer à apprendre, ... <br />Classe de badge de savoir qui indique une action, une première participation, une initiation.<br />Texte conseillé : je suis initié·e, j'ai testé, j'ai des notions, on m'a initié, initiation."
+                      tooltipText="Apprendre, étudier, ...<br />Badge de savoir qui rend visible des connaissances sur le sujet du badge .<br />Texte conseillé : j'ai appris, j'ai des notions, je sais."
                     >
                       <Sv2 />
                     </MatrixCell>
@@ -211,7 +211,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="sf2"
-                      tooltipText="S'initier, commencer à apprendre, tester, ...<br />Classe de badge de savoir faire qui indique une action, une première participation, une initiation.<br />Texte conseillé : je suis initié·e, j'ai testé, j'ai des notions, on m'a initié, j'ai expérimenté, on m'a guidé, j'ai fait."
+                      tooltipText="Apprendre, expérimenter, ...<br />Badge qui rend visible un savoir-faire,  un développement continu de savoir-faire.<br />Texte conseillé : j'expérimente, je peux faire, je sais faire."
                     >
                       <Sf2 />
                     </MatrixCell>
@@ -219,7 +219,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="se2"
-                      tooltipText="S'initier, tester, comprendre<br />Classe de badge de savoir être qui indique une action, une tentative.<br />Texte conseillé : j'ai testé, on m'a initié, j'ai expérimenté, on m'a guidé, j'ai essayé, je m'intéresse à"
+                      tooltipText="Développer, progresser... <br />Badge qui rend visible un développement continu d'un savoir-être.<br />Texte conseillé : je suis, je mets en oeuvre, je développe."
                     >
                       <Se2 />
                     </MatrixCell>
@@ -227,7 +227,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="cp2"
-                      tooltipText="S'initier, commencer à apprendre, tester, ...<br />Classe de badge de compétence qui indique une action, une initiation.<br />Texte conseillé : j'ai essayé, j'ai testé"
+                      tooltipText="Apprendre,expérimenter, ...<br />Badge qui rend visible une pratique,  un développement continu de ses compétences.<br />Texte conseillé : j'apprends, j'expérimente, je pratique."
                     >
                       <Cp2 />
                     </MatrixCell>
@@ -239,7 +239,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="xp2"
-                      tooltipText="Classe de badge indiquant un degré de participation actif ou symbolique à un événement, attestation de présence à une formation, sur un temps court ou prolongé.<br />Texte conseillé :  j'ai assisté, j'ai expérimenté, j'ai testé, ... je soutien."
+                      tooltipText="S'impliquer, contribuer... <br />Badge rendant visible un apport, une intervention, une contribution à un événement, une formation, une manifestation.<br />Texte conseillé : je suis intervenu, partenaire officiel, je contribue, j'ai survécu, je m'implique..."
                     >
                       <Xp2 />
                     </MatrixCell>
@@ -247,7 +247,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="pj2"
-                      tooltipText="Classe de badge indiquant le soutien moral, financier ou politique à un projet, un programme ou un dispositif.<br />Texte conseillé : je soutien, membre soutien, adhérent·e,"
+                      tooltipText="Contribuer, s'impliquer... <br />Badge qui rend visible un apport, une contribution active à un projet, un programme ou un dispositif.<br />Texte conseillé : nous contribuons, j'ai contribué, membre actif, j'agis pour,..."
                     >
                       <Pj2 />
                     </MatrixCell>
@@ -255,7 +255,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="gp2"
-                      tooltipText="Classe de badge indiquant le soutien moral, financier ou politique à un groupe ou une communauté.<br />Texte conseillé : je soutien, membre soutien, adhérent·e, "
+                      tooltipText="Contribuer, participer, ... <br />Badge rendant visible un apport, une contribution active à un groupe ou une communauté.<br />Texte conseillé : je contribue, membre actif, nous agissons pour,..."
                     >
                       <Gp2 />
                     </MatrixCell>
@@ -263,7 +263,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="pc2"
-                      tooltipText="Badge pour témoigner d'un début de parcours.<br />Texte conseillé : je m'engage, je suis engagé, j'ai débuté, je me suis engagé"
+                      tooltipText="Finir, terminer, achever ... <br /> Badge qui rend visible l'aboutissement d'un parcours.<br >/Texte conseillé : j'ai fini, j'ai terminé, ça y est."
                     >
                       <Pc2 />
                     </MatrixCell>
@@ -277,7 +277,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="sv3"
-                      tooltipText="Connaître, étudier : Classe de badge de savoir qui indique une connaissance d'un sujet, qu'on l'a étudié, que l'on a été formé.<br />Texte conseillé : je connais, je pratique, je suis formé, j'ai étudié."
+                      tooltipText="Transmettre, former, ...<br />Badge qui m'identifie comme personne ressource sur le sujet du badge.<br />Texte conseillé : Je transmets, je forme, je suis expert·e."
                     >
                       <Sv3 />
                     </MatrixCell>
@@ -285,7 +285,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="sf3"
-                      tooltipText="Faire et savoir faire, savoir reproduire : classe de badge de savoir faire qui indique une connaissance pratique.<br />Texte conseillé : je pratique, je suis formé, je sais faire, je fais."
+                      tooltipText="Faire et savoir faire, savoir reproduire,.. <br />Badge qui m'identifie comme personne ressource sur un savoir-faire.<br />Texte conseillé : je pratique, je suis formé, je montre comment faire."
                     >
                       <Sf3 />
                     </MatrixCell>
@@ -293,7 +293,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="se3"
-                      tooltipText="Trait de caractère ou savoir être mis ene oeuvre spécifiquement.<br />Texte conseillé : je suis, j'essaye de ... , "
+                      tooltipText="Conseiller, aider... <br />Badge qui m'identifie comme conseiller, guide, gourou et maître zen. <br /> Texte conseillé : je peux aider, je conseille."
                     >
                       <Se3 />
                     </MatrixCell>
@@ -301,7 +301,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="cp3"
-                      tooltipText="Classe de badge de compétence qui indique une connaissance pratique.<br />Texte conseillé : Je peux, je pratique"
+                      tooltipText="Transmettre, former, ...<br />Badge qui m'identifie comme personne ressource sur le sujet du badge.<br />Texte conseillé : Je transmets, je forme, je suis expert·e."
                     >
                       <Cp3 />
                     </MatrixCell>
@@ -313,7 +313,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="xp3"
-                      tooltipText="Classe de badge indiquant un apport, une intervention, une contribution à un événement, une formation, une manifestation.<br />Texte conseillé : je suis intervenu, partenaire officiel, je contribue, j'ai survécu, ..."
+                      tooltipText="Organiser, animer... <br />Badge indiquant, l'organisation ou l'animation d'un événement, d'une formation, d'une manifestation.<br />Texte conseillé : J'ai animé, nous avons organisé, ..."
                     >
                       <Xp3 />
                     </MatrixCell>
@@ -321,7 +321,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="pj3"
-                      tooltipText="Classe de badge indiquant un apport, une contribution active à un projet, un programme ou un dispositif.<br />Texte conseillé : je contribue, j'ai contribué, membre actif, j'agis pour, ..."
+                      tooltipText="Piloter, animer, conduire... <br />Badge rendant visible l'organisation, le pilotage, seul ou à plusieurs d'un projet, d'un programme ou d'un dispositif.<br />Texte conseillé : comité de pilotage, je pilote, nous organisons."
                     >
                       <Pj3 />
                     </MatrixCell>
@@ -329,7 +329,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="gp3"
-                      tooltipText="Classe de badge indiquant un apport, une contribution active à un groupe ou une communauté.<br />Texte conseillé : je contribue, j'ai contribué, membre actif, j'agis pour, ..."
+                      tooltipText="Animer, diriger... <br />Badge rendant visible l'organisation, le pilotage, seul ou à plusieurs d'un groupe ou d'une communauté.<br />Texte conseillé : membre du bureau, je pilote, nous organisons, je co-dirige, j'ai fondé / membre fondateur, je suis responsable."
                     >
                       <Gp3 />
                     </MatrixCell>
@@ -337,7 +337,7 @@ function Matrix() {
                   <td>
                     <MatrixCell
                       badgeId="pc3"
-                      tooltipText="Badge pour témoigner d'un parcours en cours ou passé.<br >/Texte conseillé : je suis, j'ai été"
+                      tooltipText="Conseiller, guider, accompagner... <br /> Badge qui rend visible ou témoigne de la capacité à accompagner un parcours.<br />Texte conseillé : J'ai accompagné, j'accompagne, je peux guider, je peux escorter."
                     >
                       <Pc3 />
                     </MatrixCell>
