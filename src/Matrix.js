@@ -56,14 +56,15 @@ function Matrix() {
               <path d="M16 14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12zm-4.5-6.5H5.707l2.147-2.146a.5.5 0 1 0-.708-.708l-3 3a.5.5 0 0 0 0 .708l3 3a.5.5 0 0 0 .708-.708L5.707 8.5H11.5a.5.5 0 0 0 0-1z" />
             </svg>
             <br />
-            <p>Savoirs et compétences</p>
-            Compétence
-            <br />
+            <p>Savoirs et compétences</p>            
             Savoir
             <br />
             Savoir-faire
             <br />
             Savoir-être
+            <br />
+            Compétence
+            
           </div>
         )}
         <table>
@@ -84,11 +85,11 @@ function Matrix() {
             <tr>
               <th>&nbsp;</th>
               {(displayMode === "all" || display === "left") && (
-                <>
-                  <th className="matrix-header">Compétence</th>
+                <>                  
                   <th className="matrix-header">Savoir</th>
                   <th className="matrix-header">Savoir-faire</th>
                   <th className="matrix-header">Savoir-être</th>
+                  <th className="matrix-header">Compétence</th>
                 </>
               )}
               {(displayMode === "all" || display === "right") && (
@@ -124,15 +125,7 @@ function Matrix() {
                 </span>
               </th>
               {(displayMode === "all" || display === "left") && (
-                <>
-                  <td>
-                    <MatrixCell
-                      badgeId="cp1"
-                      tooltipText="Voir, découvrir, prendre connaissance<br />Classe de badge de compétence qui indique une posture passive, mais qui peut aussi témoigner que l'on n'a encore rien fait mais que l'on souhaite pratiquer.<br />Texte conseillé : j'ai découvert, je souhaite pratiquer."
-                    >
-                      <Cp1 />
-                    </MatrixCell>
-                  </td>
+                <>                 
                   <td>
                     <MatrixCell
                       badgeId="sv1"
@@ -155,6 +148,14 @@ function Matrix() {
                       tooltipText="Voir, découvrir, prendre connaissance<br />Classe de badge qui indique une posture passive, ou bien que l'on souhaite apprendre.<br />Texte conseillé :  j'ai découvert, je veux apprendre, je souhaite connaitre, j'ai découvert, je veux comprendre, je veux tester"
                     >
                       <Se1 />
+                    </MatrixCell>
+                  </td>
+                  <td>
+                    <MatrixCell
+                      badgeId="cp1"
+                      tooltipText="Voir, découvrir, prendre connaissance<br />Classe de badge de compétence qui indique une posture passive, mais qui peut aussi témoigner que l'on n'a encore rien fait mais que l'on souhaite pratiquer.<br />Texte conseillé : j'ai découvert, je souhaite pratiquer."
+                    >
+                      <Cp1 />
                     </MatrixCell>
                   </td>
                 </>
@@ -198,15 +199,7 @@ function Matrix() {
             </tr>
             <tr>
               {(displayMode === "all" || display === "left") && (
-                <>
-                  <td>
-                    <MatrixCell
-                      badgeId="cp2"
-                      tooltipText="S'initier, commencer à apprendre, tester, ...<br />Classe de badge de compétence qui indique une action, une initiation.<br />Texte conseillé : j'ai essayé, j'ai testé"
-                    >
-                      <Cp2 />
-                    </MatrixCell>
-                  </td>
+                <>                  
                   <td>
                     <MatrixCell
                       badgeId="sv2"
@@ -229,6 +222,14 @@ function Matrix() {
                       tooltipText="S'initier, tester, comprendre<br />Classe de badge de savoir être qui indique une action, une tentative.<br />Texte conseillé : j'ai testé, on m'a initié, j'ai expérimenté, on m'a guidé, j'ai essayé, je m'intéresse à"
                     >
                       <Se2 />
+                    </MatrixCell>
+                  </td>
+                  <td>
+                    <MatrixCell
+                      badgeId="cp2"
+                      tooltipText="S'initier, commencer à apprendre, tester, ...<br />Classe de badge de compétence qui indique une action, une initiation.<br />Texte conseillé : j'ai essayé, j'ai testé"
+                    >
+                      <Cp2 />
                     </MatrixCell>
                   </td>
                 </>
@@ -272,15 +273,7 @@ function Matrix() {
             </tr>
             <tr>
               {(displayMode === "all" || display === "left") && (
-                <>
-                  <td>
-                    <MatrixCell
-                      badgeId="cp3"
-                      tooltipText="Classe de badge de compétence qui indique une connaissance pratique.<br />Texte conseillé : Je peux, je pratique"
-                    >
-                      <Cp3 />
-                    </MatrixCell>
-                  </td>
+                <>                  
                   <td>
                     <MatrixCell
                       badgeId="sv3"
@@ -303,6 +296,14 @@ function Matrix() {
                       tooltipText="Trait de caractère ou savoir être mis ene oeuvre spécifiquement.<br />Texte conseillé : je suis, j'essaye de ... , "
                     >
                       <Se3 />
+                    </MatrixCell>
+                  </td>
+                  <td>
+                    <MatrixCell
+                      badgeId="cp3"
+                      tooltipText="Classe de badge de compétence qui indique une connaissance pratique.<br />Texte conseillé : Je peux, je pratique"
+                    >
+                      <Cp3 />
                     </MatrixCell>
                   </td>
                 </>
