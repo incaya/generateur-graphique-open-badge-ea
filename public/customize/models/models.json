@@ -13,67 +13,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
     "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Savoir",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 397, "y": 763 },
-      "defaultText": "J’AI DÉCOUVERT",
+      "defaultText": "J'ai découvert",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 63.683877,441.98724 c 29.233664,470.42676 681.556653,472.33461 705.785293,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -90,67 +63,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
     "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Savoir",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 397, "y": 763 },
-      "defaultText": "JE SUIS INITIÉ·E",
+      "defaultText": "Je suis initié·e",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 63.683877,441.98724 c 29.233664,470.42676 681.556653,472.33461 705.785293,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -167,66 +113,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
     "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR",
-      "font": { "size": "17", "anchor": "middle" },
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Savoir",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 397, "y": 763 },
-      "defaultText": "JE SUIS AMATEUR·E",
+      "defaultText": "Je suis amateur·e",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 65.683877,447.98725 c 29.233664,470.42675 681.556653,472.3346 705.785293,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
