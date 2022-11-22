@@ -763,67 +763,41 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "COMMUNAUTÉ",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Communauté",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 8
+      },
+      "customFill": true,
+      "path": "M 342.54618,144.17149 C 513.81165,56.69633 651.20144,75.861266 772.0188,147.19595"
+    },    
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI DÉCOUVERT",
+      "defaultText": "J'en suis !",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 3,
+        "weight": "700"
       },
-      "path": "m 173.00309,539.40245 c 23.76955,338.38201 480.08131,342.72132 496.69533,0"
+      "path": "m 193.13646,829.56192 c 257.50529,179.31238 474.09541,177.70138 731.55656,1.81868"
     }
   },
   {
@@ -840,67 +814,41 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
+     "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
+     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "COMMUNAUTÉ",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Communauté",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 8
+      },
+      "customFill": true,
+      "path": "M 342.54618,144.17149 C 513.81165,56.69633 651.20144,75.861266 772.0188,147.19595"
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "JE SOUTIENS",
+      "defaultText": "Je contribue",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 3,
+        "weight": "700"
       },
-      "path": "m 173.00309,539.40245 c 23.76955,338.38201 480.08131,342.72132 496.69533,0"
+      "path": "m 193.13646,829.56192 c 257.50529,179.31238 474.09541,177.70138 731.55656,1.81868"
     }
   },
   {
@@ -917,66 +865,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "COMMUNAUTÉ",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true
+      "defaultText": "Communauté",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 8
+      },
+      "customFill": true,
+      "path": "M 342.54618,144.17149 C 513.81165,56.69633 651.20144,75.861266 772.0188,147.19595"
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "JE CONTRIBUE",
+      "defaultText": "J'anime",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 3,
+        "weight": "700"
       },
-      "path": "m 173.00309,539.40245 c 23.76955,338.38201 480.08131,342.72132 496.69533,0"
+      "path": "m 193.13646,829.56192 c 257.50529,179.31238 474.09541,177.70138 731.55656,1.81868"
     }
   },
   {
