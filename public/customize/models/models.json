@@ -20,7 +20,7 @@
         "letter-spacing": 1
       }
     },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
       "color": "#FC6541",
@@ -39,7 +39,7 @@
       "id": "texte_posture",
       "color": "#FC6541",
       "position": { "x": 397, "y": 763 },
-      "defaultText": "J'ai découvert",
+      "defaultText": "Je découvre",
       "font": {
         "size": "50",
         "anchor": "middle",
@@ -70,7 +70,7 @@
         "letter-spacing": 1
       }
     },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
       "color": "#FC6541",
@@ -89,7 +89,7 @@
       "id": "texte_posture",
       "color": "#FC6541",
       "position": { "x": 397, "y": 763 },
-      "defaultText": "Je suis initié·e",
+      "defaultText": "Je sais",
       "font": {
         "size": "50",
         "anchor": "middle",
@@ -120,7 +120,7 @@
         "letter-spacing": 1
       }
     },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
       "color": "#FC6541",
@@ -139,7 +139,7 @@
       "id": "texte_posture",
       "color": "#FC6541",
       "position": { "x": 397, "y": 763 },
-      "defaultText": "Je suis amateur·e",
+      "defaultText": "Je transmets",
       "font": {
         "size": "50",
         "anchor": "middle",
@@ -147,160 +147,6 @@
         "weight": "700"
       },
       "path": "M 215.04234,925.09996 H 885.1045"
-    }
-  },
-  {
-    "id": "sv4",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 397, "y": 763 },
-      "defaultText": "JE SUIS EXPERT·E",
-      "font": {
-        "size": "35",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 65.683877,447.98725 c 29.233664,470.42675 681.556653,472.3346 705.785293,0"
-    }
-  },
-  {
-    "id": "sv5",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 397, "y": 763 },
-      "defaultText": "JE PEUX TRANSMETTRE",
-      "font": {
-        "size": "35",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 76.543926,465.98725 c 34.663694,466.35423 656.696604,472.3346 680.925244,0"
     }
   },
   {
@@ -368,67 +214,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR FAIRE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Savoir-Faire",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 397, "y": 763 },
-      "defaultText": "J’AI TESTÉ",
+      "defaultText": "Je sais faire",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 122.74846,665.1033 c 97.04681,178.57203 410.01878,175.23553 492.36486,2.83784"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -445,220 +264,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR FAIRE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 397, "y": 763 },
-      "defaultText": "JE PEUX FAIRE",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 122.74846,665.1033 c 97.04681,178.57203 410.01878,175.23553 492.36486,2.83784"
-    }
-  },
-  {
-    "id": "sf4",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR FAIRE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Savoir-Faire",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 397, "y": 763 },
-      "defaultText": "JE SAIS CRÉER",
+      "defaultText": "Je transmets",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 122.74846,665.1033 c 97.04681,178.57203 410.01878,175.23553 492.36486,2.83784"
-    }
-  },
-  {
-    "id": "sf5",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR FAIRE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 397, "y": 763 },
-      "defaultText": "JE PEUX TRANSMETTRE",
-      "font": {
-        "size": "35",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 122.74846,665.1033 c 97.04681,178.57203 410.01878,175.23553 492.36486,2.83784"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -675,67 +314,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR ÊTRE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Savoir-Être",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI DÉCOUVERT",
+      "defaultText": "Je m'initie",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 102.54393,493.98725 c 34.66369,466.35423 656.6966,472.3346 680.92524,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -752,67 +364,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR ÊTRE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Savoir-Être",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI ESSAYÉ",
+      "defaultText": "Je suis",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 102.54393,493.98725 c 34.66369,466.35423 656.6966,472.3346 680.92524,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -829,220 +414,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR ÊTRE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "JE SUIS",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 102.54393,493.98725 c 34.66369,466.35423 656.6966,472.3346 680.92524,0"
-    }
-  },
-  {
-    "id": "se4",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR ÊTRE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Savoir-Être",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "JE SUIS EXEMPLAIRE",
+      "defaultText": "J'initie",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 102.54393,493.98725 c 34.66369,466.35423 656.6966,472.3346 680.92524,0"
-    }
-  },
-  {
-    "id": "se5",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "SAVOIR ÊTRE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "JE PEUX TRANSMETTRE",
-      "font": {
-        "size": "35",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 102.54393,493.98725 c 34.66369,466.35423 656.6966,472.3346 680.92524,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -1059,67 +464,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "EXPÉRIENCE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Expérience",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "J'AI ASSISTÉ",
+      "defaultText": "J'explore",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "M 114.60675,734.24968 H 735.39326"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -1136,67 +514,39 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "EXPÉRIENCE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "defaultText": "Expérience",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI EXPÉRIMENTÉ",
+      "defaultText": "Je pratique",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "M 114.60675,734.24968 H 735.39326"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -1213,220 +563,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "EXPÉRIENCE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI CONTRIBUÉ",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "M 114.60675,734.24968 H 735.39326"
-    }
-  },
-  {
-    "id": "xp4",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "EXPÉRIENCE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Expérience",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI CO-CONÇU",
+      "defaultText": "Je transmets",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "M 114.60675,734.24968 H 735.39326"
-    }
-  },
-  {
-    "id": "xp5",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "EXPÉRIENCE",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI ORGANISÉ",
-      "font": {
-        "size": "35",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "M 114.60675,760.24968 H 735.39326"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -1443,67 +613,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "PROJET",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Projet",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI DÉCOUVERT",
+      "defaultText": "Je soutiens",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 181.42986,573.98607 c 25.0521,345.61511 505.98529,350.04718 523.49575,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -1520,67 +663,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "PROJET",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Projet",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "JE SOUTIENS",
+      "defaultText": "Je participe",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 181.42986,573.98607 c 25.0521,345.61511 505.98529,350.04718 523.49575,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -1597,220 +713,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "PROJET",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "JE CONTRIBUE",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 181.42986,573.98607 c 25.0521,345.61511 505.98529,350.04718 523.49575,0"
-    }
-  },
-  {
-    "id": "pj4",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "PROJET",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Projet",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "JE SUIS ACTEUR",
+      "defaultText": "Je pilote",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 181.42986,573.98607 c 25.0521,345.61511 505.98529,350.04718 523.49575,0"
-    }
-  },
-  {
-    "id": "pj5",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "PROJET",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "JE PILOTE",
-      "font": {
-        "size": "35",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 181.42986,573.98607 c 25.0521,345.61511 505.98529,350.04718 523.49575,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -2044,160 +980,6 @@
     }
   },
   {
-    "id": "gp4",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "COMMUNAUTÉ",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "J’ANIME",
-      "font": {
-        "size": "35",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 173.00309,539.40245 c 23.76955,338.38201 480.08131,342.72132 496.69533,0"
-    }
-  },
-  {
-    "id": "gp5",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "COMMUNAUTÉ",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI FONDÉ",
-      "font": {
-        "size": "35",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 173.00309,539.40245 c 23.76955,338.38201 480.08131,342.72132 496.69533,0"
-    }
-  },
-  {
     "id": "pc1",
     "10": {
       "id": "picto_titre_badge",
@@ -2211,67 +993,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "PARCOURS",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Parcours",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "JE M’ENGAGE",
+      "defaultText": "Je me lance",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 180.82233,569.40245 c 23.76955,338.38201 480.08131,342.72132 496.69533,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -2288,67 +1043,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "PARCOURS",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Parcours",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "JE SUIS ENGAGÉ·E",
+      "defaultText": "J'ai terminé",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 180.82233,569.40245 c 23.76955,338.38201 480.08131,342.72132 496.69533,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -2365,220 +1093,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "PARCOURS",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "XXXXX",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 180.82233,569.40245 c 23.76955,338.38201 480.08131,342.72132 496.69533,0"
-    }
-  },
-  {
-    "id": "pc4",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 563 },
-      "defaultText": "PARCOURS",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Parcours",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI RÉALISÉ",
+      "defaultText": "Je peux accompagner",
       "font": {
-        "size": "35",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 180.82233,569.40245 c 23.76955,338.38201 480.08131,342.72132 496.69533,0"
-    }
-  },
-  {
-    "id": "pc5",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "35", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 507, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 563 },
-      "defaultText": "PARCOURS",
-      "font": { "size": "17", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "J’AI ACCOMPAGNÉ",
-      "font": {
-        "size": "35",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 180.82233,569.40245 c 23.76955,338.38201 480.08131,342.72132 496.69533,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -2595,67 +1143,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "50", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 700, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "25", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 565 },
-      "defaultText": "COMPÉTENCE",
-      "font": { "size": "25", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Compétences",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "JE DÉCOUVRE",
+      "defaultText": "J'explore",
       "font": {
-        "size": "45",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 220.60976,811.99893 c 39.91948,555.99577 806.26674,563.12567 834.16894,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -2672,67 +1193,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "50", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 700, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "25", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 565 },
-      "defaultText": "COMPÉTENCE",
-      "font": { "size": "25", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Compétences",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "J'AI TESTÉ",
+      "defaultText": "Je pratique",
       "font": {
-        "size": "45",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 210.90491,805.99893 c 39.91948,555.99577 806.26669,563.12567 834.16889,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   },
   {
@@ -2749,221 +1243,40 @@
       "color": "#ffffff",
       "position": { "x": 430, "y": 490 },
       "defaultText": "MON TITRE ICI",
-      "font": { "size": "50", "anchor": "middle", "weight": "800" }
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "900",
+        "letter-spacing": 1
+      }
     },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 700, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "25", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
+    "22": { "id": "fond_categorie", "color": "#028283", "customFill": true },
     "33": {
       "id": "texte_picto_categorie",
-      "color": "#000000",
+      "color": "#FC6541",
       "position": { "x": 345, "y": 565 },
-      "defaultText": "COMPÉTENCE",
-      "font": { "size": "25", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
+      "translate": { "x": 0, "y": 15 },
+      "defaultText": "Compétences",
+      "font": {
+        "size": "50",
+        "anchor": "middle",
+        "weight": "700",
+        "letter-spacing": 1
+      },
       "customFill": true
     },
     "42": {
       "id": "texte_posture",
-      "color": "#473467",
+      "color": "#FC6541",
       "position": { "x": 297, "y": 763 },
-      "defaultText": "JE PEUX PRATIQUER",
+      "defaultText": "Je transmets",
       "font": {
-        "size": "45",
+        "size": "50",
         "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
+        "letter-spacing": 1,
+        "weight": "700"
       },
-      "path": "m 214.90491,817.99893 c 39.91948,555.99577 806.26669,563.12567 834.16889,0"
-    }
-  },
-  {
-    "id": "cp4",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "50", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 700, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "25", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 565 },
-      "defaultText": "COMPÉTENCE",
-      "font": { "size": "25", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "JE SAIS PRATIQUER",
-      "font": {
-        "size": "45",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 209.83103,817.99893 c 39.91948,555.99577 806.26677,563.12567 834.16887,0"
-    }
-  },
-  {
-    "id": "cp5",
-    "10": {
-      "id": "picto_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 330 },
-      "size": { "w": 170, "h": 170 },
-      "customFill": true
-    },
-    "11": {
-      "id": "texte_titre_badge",
-      "color": "#ffffff",
-      "position": { "x": 430, "y": 490 },
-      "defaultText": "MON TITRE ICI",
-      "font": { "size": "50", "anchor": "middle", "weight": "800" }
-    },
-    "20": {
-      "id": "filet_2_categorie",
-      "color": "#009eb9",
-      "customStroke": true
-    },
-    "21": { "id": "filet_3_posture", "color": "#009eb9", "customStroke": true },
-    "22": { "id": "fond_categorie", "color": "#019db8", "customFill": true },
-    "30": {
-      "id": "filet_separation_theme",
-      "color": "#000000",
-      "customStroke": true
-    },
-    "31": {
-      "id": "texte_picto_theme",
-      "color": "#000000",
-      "position": { "x": 700, "y": 565 },
-      "defaultText": "TEXTE THEME",
-      "font": { "size": "25", "anchor": "middle" },
-      "customFill": true
-    },
-    "32": {
-      "id": "picto_theme",
-      "color": "#000000",
-      "position": { "x": 510, "y": 610 },
-      "size": { "w": 60, "h": 60 },
-      "customStroke": true
-    },
-    "33": {
-      "id": "texte_picto_categorie",
-      "color": "#000000",
-      "position": { "x": 345, "y": 565 },
-      "defaultText": "COMPÉTENCE",
-      "font": { "size": "25", "anchor": "middle" },
-      "customFill": true
-    },
-    "34": { "id": "picto_categorie", "color": "#000000", "customStroke": true },
-    "40": {
-      "id": "filet_1_categorie",
-      "color": "#473467",
-      "customStroke": true
-    },
-    "41": {
-      "id": "picto_posture",
-      "color": "#473467",
-      "customStroke": true,
-      "customFill": true
-    },
-    "42": {
-      "id": "texte_posture",
-      "color": "#473467",
-      "position": { "x": 297, "y": 763 },
-      "defaultText": "JE PEUX TRANSMETTRE",
-      "font": {
-        "size": "45",
-        "anchor": "middle",
-        "letter-spacing": 5,
-        "weight": "800"
-      },
-      "path": "m 243.61856,877.99975 c 40.30149,555.99355 813.98224,563.12345 842.15144,0"
+      "path": "M 215.04234,925.09996 H 885.1045"
     }
   }
 ]
