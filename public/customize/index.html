@@ -23,8 +23,11 @@
       <header>
         <a href="/" style="text-decoration: none; color: #403b33">
           <h1>
-            Générateur de visuel pour
-            <span style="color: #d3643b">Open badge EA</span>
+            <span style="text-decoration: none; color: #403b33;">
+              Générateur de visuels pour les</span>
+            <span style="color: #f35b36;">
+              Open Badges de l'Aventure du Vivant
+            </span>
           </h1>
         </a>
         <nav>
@@ -282,39 +285,14 @@
       </main>
       <footer>
         <div id="footer-content">
-          <p>Pied de page</p>
-          <!-- <div class="bloc-logos">
-              <img
-                src="./img/logo_canope14.png"
-                alt="logo Canopé"
-                class="footer-logo"
-              />
-              <img
-                src="./img/Logo_cran_noir.svg"
-                alt="logo CRAN"
-                class="footer-logo"
-              />
-              <img
-                src="./img/logo_chambre_metier_artisanat_normandie.svg"
-                alt="logo Chambre des métiers"
-                class="footer-logo"
-              />
-              <img
-                src="./img/logo-region-normandie-noir.svg"
-                alt="logo Region"
-                class="footer-logo"
-              />
-              <img
-                src="./img/europe_noir.svg"
-                alt="logo Europe"
-                class="footer-logo"
-              />
-              <img
-                src="./img/logo_dome_noir.svg"
-                alt="logo Dôme"
-                class="footer-logo"
-              />
-            </div> -->
+          <p>
+            Réalisation <a href="https://incaya.fr/" title="lien site web INCAYA">
+              INCAYA
+            </a> - financement <a href="https://agriculture.gouv.fr/enseignement-technique-avant-le-bac"
+              title="lien DGER, Ministère de l'Agriculture">
+              DGER/MASA
+            </a>
+          </p>
         </div>
       </footer>
     </div>
@@ -416,11 +394,11 @@
           var color = e.target.value;
           // customBadge.setColor(20, color);
           // customBadge.setColor(21, color);
-          customBadge.setColor(22, color);   
+          customBadge.setColor(22, color);
           let hotElements = document.getElementsByClassName("icon-cold-color");
           for (var i = 0, l = hotElements.length; i < l; i++) {
             SVG(hotElements[i]).attr("fill", color);
-          }      
+          }
         });
       document
         .getElementById("couleur_4")

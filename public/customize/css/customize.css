@@ -13,7 +13,7 @@ code {
 }
 
 header {
-  background-color: #a8d0d8;
+  background-color: #3cb397;
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -54,7 +54,7 @@ main {
 
 footer {
   font-size: 0.8em;
-  background-color: #a8d0d8;
+  background-color: #3cb397;
   padding: 10px;
   margin-top: 50px;
 }

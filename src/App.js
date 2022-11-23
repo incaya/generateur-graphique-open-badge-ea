@@ -27,8 +27,10 @@ function App() {
           <header>
             <h1>
               <Link to="/" style={{ textDecoration: "none", color: "#403b33" }}>
-                Générateur de visuel pour{" "}
-                <span style={{ color: "#d3643b" }}>Open badge EA</span>
+                Générateur de visuels pour les{" "}
+                <span style={{ color: "#f35b36" }}>
+                  Open Badges de l'Aventure du Vivant
+                </span>
               </Link>
             </h1>
             <nav>
@@ -117,31 +119,19 @@ function App() {
           </main>
           <footer>
             <div id="footer-content">
-              <p>Pied de page</p>
-              {/* <div className="bloc-logos">
-                <img
-                  src={LogoCanope}
-                  alt="logo Canopé"
-                  className="footer-logo"
-                />
-                <img src={LogoAgri} alt="logo CRAN" className="footer-logo" />
-                <img
-                  src={LogoMetiers}
-                  alt="logo Chambre des métiers"
-                  className="footer-logo"
-                />
-                <img
-                  src={LogoRegion}
-                  alt="logo Region"
-                  className="footer-logo"
-                />
-                <img
-                  src={LogoEurope}
-                  alt="logo Europe"
-                  className="footer-logo"
-                />
-                <img src={LogoDome} alt="logo Dôme" className="footer-logo" />
-              </div> */}
+              <p>
+                Réalisation{" "}
+                <a href="https://incaya.fr/" title="lien site web INCAYA">
+                  INCAYA
+                </a>{" "}
+                - financement{" "}
+                <a
+                  href="https://agriculture.gouv.fr/enseignement-technique-avant-le-bac"
+                  title="lien DGER, Ministère de l'Agriculture"
+                >
+                  DGER/MASA
+                </a>
+              </p>
             </div>
           </footer>
         </div>

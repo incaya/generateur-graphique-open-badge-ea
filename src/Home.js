@@ -1,6 +1,8 @@
 import React, { useCallback } from "react";
 import { useHistory } from "react-router-dom";
 
+import LogoAventureVivant from "./img/aventure-vivant.jpg";
+
 function Home() {
   const history = useHistory();
   const linkTo = useCallback((path) => history.push(path), [history]);
@@ -8,12 +10,22 @@ function Home() {
     <>
       <p className="home-text-block">
         Le but de ce site est de vous guider dans le choix, la conception et la
-        déclinaison graphique des open badges que vous souhaitez réaliser. Les
+        déclinaison graphique des Open Badges que vous souhaitez réaliser. Les
         usages et les visuels de badges proposés s'appuient sur une "matrice de
         badges", fruit de plusieurs années de travail collaboratif avec les
         membres du collectif <strong>Badgeons la Normandie</strong> et de
         l'Association <strong>Reconnaître</strong> et piloté par{" "}
         <strong>Le Dôme</strong>.<br />
+      </p>
+      <p style={{ marginBottom: "35px" }}>
+        <strong>
+          Ce générateur est une déclinaison pour l'enseignement agricole
+          proposée par le dispositif{" "}
+          <a href="https://acoustice.educagri.fr" title="acoustice">
+            acoustice
+          </a>
+          .
+        </strong>
       </p>
       <div className="blocks-row">
         <div className="user-choice" onClick={() => linkTo("/recurrents")}>
@@ -65,13 +77,20 @@ function Home() {
       <p className="home-text-block">
         Cette matrice de badges s'appuie sur quatre catégories de badges de
         "savoir et compétence" et quatre catégories de badges "d'engagement et
-        participation". Chacune de ces catégories peut se décliner en 5 classes
+        participation". Chacune de ces catégories peut se décliner en 3 classes
         qui traduisent des postures plus que des niveaux ou une hiérarchie,
         allant de la découverte à la transmission. Pour concevoir votre badge,
         laisser vous guider au fil des questions, reprenez quelques exemples
         déjà imaginés par d'autres ou bien parcourez la matrice et sélectionnez
-        directement vos visuels parmi ceux qui vous sont proposés. Vous pourrez
-        ensuite le personnaliser, en changeant ses couleurs et son visuel.
+        directement votre visuel parmi ceux qui vous sont proposés. Vous pourrez
+        ensuite le personnaliser.
+      </p>
+      <p style={{ textAlign: "center" }}>
+        <img
+          style={{ width: "300px" }}
+          src={LogoAventureVivant}
+          alt="logo L'Aventure du Vivant"
+        />
       </p>
     </>
   );
