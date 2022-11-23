@@ -1,10 +1,4 @@
 import "./App.css";
-import LogoCanope from "./img/logo_canope14.png";
-import LogoAgri from "./img/Logo_cran_noir.svg";
-import LogoMetiers from "./img/logo_chambre_metier_artisanat_normandie.svg";
-import LogoRegion from "./img/logo-region-normandie-noir.svg";
-import LogoEurope from "./img/europe_noir.svg";
-import LogoDome from "./img/logo_dome_noir.svg";
 
 import {
   BrowserRouter as Router,
