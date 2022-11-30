@@ -28,7 +28,7 @@
       "url": "http://www.gnu.org/licenses/gpl-3.0.html"
     }
   ],
-  "homepage": "",
+  "homepage": "https://openbadges.educagri.fr/generateur",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
