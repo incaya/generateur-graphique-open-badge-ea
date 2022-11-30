@@ -98,9 +98,9 @@
                 {"id": 622, "title": "parce que la personne y est intervenue", "level": 2, "childOf": 620, "badgeId": "Xp2"},
                 {"id": 623, "title": "parce que la personne a participé à sa conception et animation", "level": 2, "childOf": 620, "badgeId": "Xp3"},
             {"id": 630, "title": "un colloque sur une ou plusieurs journées", "level": 1, "childOf": 600},
-                {"id": 631, "title": "parce que que la personne y a assisté", "level": 2, "childOf": 630, "badgeId": "Xp2"},
-                {"id": 632, "title": "parce que la personne y est intervenue", "level": 2, "childOf": 630, "badgeId": "Xp3"},
-                {"id": 633, "title": "parce que la personne a participé à sa conception, animation et/ou est l’une des organisatrices", "level": 2, "childOf": 630, "badgeId": "Xp4"},
+                {"id": 631, "title": "parce que que la personne y a assisté", "level": 2, "childOf": 630, "badgeId": "Xp1"},
+                {"id": 632, "title": "parce que la personne y est intervenue", "level": 2, "childOf": 630, "badgeId": "Xp2"},
+                {"id": 633, "title": "parce que la personne a participé à sa conception, animation et/ou est l’une des organisatrices", "level": 2, "childOf": 630, "badgeId": "Xp3"},
             
         {"id": 700, "title": "la participation à une formation", "level": 0, "childOf": null},
             {"id": 710, "title": "et valider la participation à une ou plusieurs journée de présence", "level": 1, "childOf": 700, "badgeId": "Xp1"},
