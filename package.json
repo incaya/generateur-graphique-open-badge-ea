@@ -19,7 +19,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": ""
+      "url": "https://github.com/incaya/generateur-graphique-open-badge-ea/"
     }
   ],
   "licenses": [
